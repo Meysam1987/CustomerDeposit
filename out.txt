@@ -1,0 +1,6 @@
+Deposit Balance is negative!
+Duration time is inconsistent!
+Deposit type is Unknown!
+658951#2991597852.79745924962710027825342465
+534900#13.698630341111797175995291095
+48483#0
